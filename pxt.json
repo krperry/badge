@@ -5,7 +5,6 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "OD01": "github:xinabox/pxt-od01#v1.0.12"
     },
     "files": [
         "main.blocks",
